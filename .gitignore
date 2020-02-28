@@ -136,10 +136,10 @@ dmypy.json
 *[Da]ata/*
 dataset/*
 /data
+
+data/*
 *.label
 *.eml
 *.csv
 Icon
 
-
-.ipynb_checkpoints/*
