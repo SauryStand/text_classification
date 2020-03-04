@@ -1,7 +1,7 @@
 #encoding:utf-8
 from __future__ import print_function
-from text_model import *
-from loader import *
+from models.text_model import *
+from data_helper import *
 from sklearn import metrics
 import sys
 import os
